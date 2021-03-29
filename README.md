@@ -4,6 +4,8 @@
 * 이후 **Stanford CS224n: Natural Language Processing with Deep Learning** 강의를 들으며 공부했습니다.
 * 그 외에도 스터디원들과 함께 공부하며 시도한 웹 크롤링, 모델링등에 대한 코드가 있습니다.
 
+--- 
+
 ## 스터디 진행 일정
 
 |   주차   |   일정   |   내용   |   과제 및 논의   |   코드   |
