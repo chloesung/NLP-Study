@@ -18,6 +18,8 @@
 |  6주차  | 2021.02.25 | **트랜스포머** | K-POP 세대별 가사 생성 프로젝트 | [Project GitHub](https://github.com/Lyrics-Generation-Project/Song-Lyrics-Generator) | 
 |  7주차  | 2021.03.04 | **사전학습모델** | K-POP 세대별 가사 생성 프로젝트 | [Project GitHub](https://github.com/Lyrics-Generation-Project/Song-Lyrics-Generator)|
 
+--- 
+
 ## ✔️ 학기 중 스터디 진행 일정
 
 |   주차   |   일정   |   내용   |   과제 및 논의   |   코드   |
