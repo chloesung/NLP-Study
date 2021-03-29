@@ -11,7 +11,7 @@
 |   주차   |   일정   |   내용   |   과제 및 논의   |   코드   |
 |:----------------------------|:----------------------------:|:--------------------:|:-------------------:|:-----------------:|
 |  1주차  | 2021.01.14 | **신경망, 자연어와 단어의 분산표현** | <밑바닥부터 시작하는 딥러닝2> 코드 | |
-|  2주차  | 2021.01.21 | **word2vec** | 심슨 대사 데이터셋으로 word2vec 적용 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1rhdqnXG7HuSmrAdEPg34Krl6c2qlMVCp?usp=sharing) |
+|  2주차  | 2021.01.21 | **word2vec** | 심슨 대사 데이터셋 word2vec 적용 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/drive/1rhdqnXG7HuSmrAdEPg34Krl6c2qlMVCp?usp=sharing) |
 |  3주차  | 2021.01.28 | **RNN, LSTM** | 왓챠 영화 리뷰 크롤링, 전처리, 시각화 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HxtTw8GtDcBe4PhZKxc7lcCn9-ceiAmP?usp=sharing) | 
 |  4주차  | 2021.02.04 | **RNN, seq2seq** | seq2seq 챗봇 구현 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DVZ4U1mOYfRI3I66Vylh5-0p-A_zJj3y?usp=sharing) |
 |  5주차  | 2021.02.18 | **어텐션** | K-POP 세대별 가사 생성 프로젝트  | [Project GitHub](https://github.com/Lyrics-Generation-Project/Song-Lyrics-Generator) | 
