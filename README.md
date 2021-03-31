@@ -26,4 +26,4 @@
 |:----------------------------|:----------------------------:|:--------------------:|:-------------------:|:-----------------:|
 |  1주차  | 2021.03.22 | **Introduction and Word Vectors** | CS224n Lecture 1 | | 
 |  2주차  | 2021.03.29 | **Word Vectors 2 and Word Senses** | CS224n Lecture 2 | |
-|  3주차  | 2021.04.04 | **Word Vectors 2 and Word Senses** | CS224n Lecture 3 | |
+|  3주차  | 2021.04.04 | **Word Window Classification, Neural Networks, and Matrix Calculus** | CS224n Lecture 3 | |
