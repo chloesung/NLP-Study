@@ -3,7 +3,7 @@
 * <밑바닥부터 시작하는 딥러닝2>, <텐서플로 2와 머신러닝으로 시작하는 자연어 처리> 교재를 따라가며 공부했습니다.  
 * 이후 [**Stanford CS224n: Natural Language Processing with Deep Learning**](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/) 강의를 들으며 공부했습니다.
 * 그 외에도 스터디원들과 함께 공부하며 시도한 웹 크롤링, 모델링 등에 대한 코드가 있습니다.
-* 봄 학기 스터디 이후, KUBIG 2021-2학기에 스터디 분반장을 맡아 진행한 [**자연어처리 스터디 Notion**](https://weak-abrosaurus-434.notion.site/KUBIG-2021-Summer-NLP-Study-9067036b2cf14b3abe3bb7247bb2900c)입니다. 
+* 봄 학기 스터디 이후, KUBIG 2021-2학기에 스터디 분반장을 맡아 진행한 [**자연어처리 스터디 Notion**](https://chloesung.notion.site/KUBIG-2021-Summer-NLP-Study-9067036b2cf14b3abe3bb7247bb2900c)입니다. 
 
 <br>
 
