@@ -16,7 +16,7 @@
 |  3주차  | 2021.01.28 | **RNN, LSTM** | 영화 리뷰 데이터 크롤링, 전처리, 시각화 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HxtTw8GtDcBe4PhZKxc7lcCn9-ceiAmP?usp=sharing) | 
 |  4주차  | 2021.02.04 | **RNN, seq2seq** | seq2seq 챗봇 구현 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DVZ4U1mOYfRI3I66Vylh5-0p-A_zJj3y?usp=sharing) |
 |  5주차  | 2021.02.18 | **어텐션** | K-POP 세대별 가사 생성 프로젝트  | [![Blog Badge](http://img.shields.io/badge/-LyricsGeneration-black?&logo=github&link=https://github.com/Lyrics-Generation-Project/Song-Lyrics-Generator)](https://github.com/Lyrics-Generation-Project/Song-Lyrics-Generator) | 
-|  6주차  | 2021.02.25 | **트랜스포머** | K-POP 세대별 가사 생성 프로젝트 | [Project GitHub](https://github.com/Lyrics-Generation-Project/Song-Lyrics-Generator) | 
-|  7주차  | 2021.03.04 | **사전학습모델** | K-POP 세대별 가사 생성 프로젝트 | [Project GitHub](https://github.com/Lyrics-Generation-Project/Song-Lyrics-Generator)|
+|  6주차  | 2021.02.25 | **트랜스포머** | K-POP 세대별 가사 생성 프로젝트 | [![Blog Badge](http://img.shields.io/badge/-LyricsGeneration-black?&logo=github&link=https://github.com/Lyrics-Generation-Project/Song-Lyrics-Generator)](https://github.com/Lyrics-Generation-Project/Song-Lyrics-Generator) | 
+|  7주차  | 2021.03.04 | **사전학습모델** | K-POP 세대별 가사 생성 프로젝트 | [![Blog Badge](http://img.shields.io/badge/-LyricsGeneration-black?&logo=github&link=https://github.com/Lyrics-Generation-Project/Song-Lyrics-Generator)](https://github.com/Lyrics-Generation-Project/Song-Lyrics-Generator)|
 
 <br>
